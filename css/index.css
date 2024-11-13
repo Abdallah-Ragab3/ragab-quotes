@@ -1,0 +1,39 @@
+.items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.items h2 {
+    font-weight: 700;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.items p {
+    font-size: 35px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 50px;
+}
+
+.items button {
+    background-color: blue;
+    color: wheat;
+    padding: 25px 100px;
+}
+.items button:hover{
+    background-color: rgb(55, 255, 0);
+    color: #ffffff;
+}
+
+.Hehe {
+    font-size: 35px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 50px;
+}
